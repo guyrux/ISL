@@ -125,7 +125,7 @@ dmypy.json
 .pyre/
 
 # Data from book
-data/*.csv
+data/*
 
 # pdf files
 *.pdf
