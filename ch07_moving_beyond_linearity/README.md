@@ -4,7 +4,7 @@
 
 **1. Regressão polinomial:** é uma extensão da regressão linear. Consegue ajustar dados não lineares através da adição de fatores elevados até uma determinada potência.
 
-**2. Funções escalonadas (ou *Step functions*):** "corta" o domínio da função em *K* partes. Esses cortes tem o objetivo de ajustar o modelos por partes dentro das regiôes definidas pelos "cortes".
+**2. Funções escalonadas/funções degrau (ou *Step functions*):** "corta" o domínio da função em *K* partes. Esses cortes tem o objetivo de ajustar o modelos por partes dentro das regiôes definidas pelos "cortes".
 
 **3. Regressões Splines:** essas funções são uma extensão das duas anteriores (**regressões polinomiais** e **funções escalonadas**). O domínio do modelo é segmentado em *K* partes e um polinômio diferente irá ajustar-se em cada região. Outra característica importante das regressões splines são as restrições nos nós (valor onde ocorrem os "cortes").
 
@@ -18,3 +18,4 @@
 --------------------
 
 ## [Notebook com mais detalhes](./ch7_01_anotacoes.ipynb)
+
