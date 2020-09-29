@@ -7,10 +7,10 @@ Para cada capítulo, haverá:
 1. Um README com os principais pontos abordados no capítulo. E referências a outros materiais.
 1. Um jupyter notebook com a resolução dos exercícios.
 
-### Capítulo 02 - [Aprendizado estatístico](./ch02_statistical_learning/README.md)
+### Capítulo 02 - [Aprendizado estatístico](./ch02_statistical_learning/)
 Aqui os autores tratam do que é o aprendizado estatístico. =)
 
-### Capítulo 03 - Regressão linear
+### Capítulo 03 - [Regressão linear](./ch03_linear_regression/)
 
 ### Capítulo 04 - Classificação
 
@@ -18,9 +18,9 @@ Aqui os autores tratam do que é o aprendizado estatístico. =)
 
 ### Capítulo 06 - Seleção de modelos lineares e regularização
 
-### Capítulo 07 - Indo além da linearidade
+### Capítulo 07 - [Indo além da linearidade](./ch07_moving_beyond_linearity/)
 
-### Capítulo 08 - Métodos baseados em árvore
+### Capítulo 08 - [Métodos baseados em árvore](./ch08_tree_based_methods/)
 
 ### Capítulo 09 - Support Vector Machines
 
