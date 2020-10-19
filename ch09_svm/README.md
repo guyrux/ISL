@@ -2,7 +2,7 @@
 
 ## Assuntos tratados no capítulo
 
-**1. Classificador de margem máxima**
+**1. Classificador de margem máxima** (Maximal margin classifier)
 
 **2. Support vector classifiers**
 
