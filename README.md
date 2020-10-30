@@ -4,9 +4,12 @@
 
 ## Para cada capítulo, haverá:
 
-1. Um README com os principais pontos abordados no capítulo. E referências a outros materiais;
+1. Um README com os principais pontos abordados no capítulo. E referências a outros materiais; *(por enquanto)*
 1. Um jupyter notebook com anotações superficiais e que servem para mim; e =)
 1. Um jupyter notebook com a resolução dos exercícios.
+
+
+:heavy_exclamation_mark: ***Alerta:*** *Infelizmente, o GitHub não interpreta todos os símbolos matemáticos vindos do Latex. Portanto, conforme indicação dessa [issue](https://github.com/brian-rose/ClimateModeling_courseware/issues/6), copie o link do notebook que deseja visualizar no campo do site [nbviewer](https://nbviewer.jupyter.org/) ou faça um "git clone" para visualizar na sua máquina.* :wink:
 
 ## Capítulos
 
@@ -29,13 +32,12 @@ Aqui os autores tratam do que é o aprendizado estatístico. =)
 
 ### Capítulo 09 - [Support Vector Machines](./ch09_svm/)
 
-### Capítulo 10 - Aprendizado não supervisionado
+### Capítulo 10 - [Aprendizado não supervisionado](./ch10_unsupervised_learning/)
 
 
-## Importante!
-
-**Esse repositório foi construído como um material de estudos pessoal**. Fique a vontade para consultar, copiar e sugerir.
+**Importante!**
+Esse repositório foi construído como um material de estudos pessoal.
+Fique a vontade para consultar, copiar e sugerir.
 
 Aproveite, também, para visitar a [página com o livro e bases dos grandes autores dessa obra](http://faculty.marshall.usc.edu/gareth-james/ISL/). :heart:
-
 Na página dos autores, é possível encontrar os datasets usados ao longo do livro.
