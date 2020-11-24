@@ -3,7 +3,7 @@
 **Positivo:**
 
 - Como o k-means funciona?
-> k-means é um algoritmo de aprendizado não-supervisionado e é usado para *encontrar observações que sejam próximas* e, com isso, inferir a existência de grupos com observações com atributos mais similares.
+> k-means é um algoritmo de aprendizado não-supervisionado e é usado para *encontrar observações que sejam próximas* e, com isso, inferir a existência de grupos com atributos mais similares entre seus elementos.
 > Para iniciar o algoritmo k-means, é necessário indicar a quantidade de grupos ou *cluters* que são esperados, essa quantidade é indicada pela letra *k* de k-means.
 > Os centróides, como são chamados os pontos centrais de cada agrupamentos, são dispostos aleatoriamente no espaço n-dimensional formado pelos atributos/fatores das observações.
 > E seguida, são medidas as distâncias entre todos os pontos e os *k* centróides. As observações são associadas ao centróide mais próximo. Por fim, é calculado o baricentro de cada agrupamento e o centróide é movido para esse novo ponto. Esse último passo deve ser executado até que não haja mais alteração na localização dos centróides.
@@ -56,10 +56,29 @@
 
 - Como calcular média, mediana e moda?
 
+> **Média:** somatório dos elementos de uma amostra divididos pela quantidade de elementos dessa amostra.
+>
+> $$ Média = \frac{1}{n}\sum_{i=1}^nx_{i} $$
+>
+>---
+>
+> **Mediana:** elemento central de uma amostra. Quando os elementos são colocados em ordem crescente ou decrescente, a mediana é o elemento central, no caso de uma quantidade ímpar de amostras e é a média dos dois elementos centrais se a amostra tiver uma quantidade de elementos par.
+> **Importante:** A mediana é mais robusta que a média quanto a presença de outliers.
+>
+>---
+>
+> **Moda:** simplesmente o elemento com maior de ocorrência na amostra.
+>
+>---
+
 **Negativo:**
 
 - Qual é a diferença entre a amostragem por conglomerado e a estratificada? Nesse tipo de amostragem, os conglomerados devem ser homogêneos ou heterogêneos?
 - Como calcular o desvio padrão?
+
+> O desvio padrão é uma medida de dispersão que mostra quanto os elementos estão distantes da média da amostra. Quanto mais próximo de 0, menos disperso é a amostra.
+> $$ \sigma = \sqrt{\frac{\sum_{i=1}^n(x_{i}-\bar{x})}{n}} $$
+> Importante que a variâcia é o quadrado do desvio padrão.
 
 ## SQL
 
