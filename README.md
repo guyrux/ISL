@@ -2,6 +2,8 @@
 
 **Como esse repositório está organizado?**
 
+> 🚧 Adicionando capítulos da nova edição (2.ª edição).
+
 ## Para cada capítulo, haverá:
 
 1. Um README com os principais pontos abordados no capítulo. E referências a outros materiais; *(por enquanto)*
